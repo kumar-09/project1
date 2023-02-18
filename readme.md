@@ -1,0 +1,1 @@
+file created for read and write in diary
